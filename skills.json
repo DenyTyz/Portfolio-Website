@@ -3,22 +3,27 @@
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
+
     {
         "name": "Bootstrap",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
+
     {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
+
     {
         "name": "CSS3",
         "icon": "https://img.icons8.com/color/48/000000/css3.png"
     },
+
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
+    
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
